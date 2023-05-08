@@ -4,8 +4,8 @@
     "framework": "vite",
     "rewrites": [
         {
-            "source": "/api/(.*)", //источник всех API
-            "destination": "/api/index.js" // Выход всех API
+            "source": "/api/(.*)",
+            "destination": "/api/index.js"
         }
     ]
 }
